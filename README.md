@@ -1,10 +1,7 @@
-Fortune of the Future Survey 
+An interactive survey built with Python to practice various techniques
 
-Version 1.0
+Features Include:
+- Limiting user input 
+- Accepting various datatypes from user
+- Routing user back to question if input was entered incorrectly
 
-This was built using VS Code
-
-This can be ran on most editors. Be sure to have the latest version as of 2021. 
-The file type is .py
-
-copyright: Lyndon Parrilla 2021
